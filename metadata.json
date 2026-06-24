@@ -1,0 +1,8 @@
+{
+  "name": "Premium Cosmetics Store",
+  "description": "A modern glassmorphism-style eCommerce website for a premium beauty-tech cosmetics brand featuring a frosted-glass UI, glowing details, and soft pastel gradients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
